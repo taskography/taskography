@@ -1,2 +1,3 @@
-# taskography
-Task planning over 3D scene graphs
+### ✨ Taskography
+
+Benchmarking robot task planning over 3D scene graphs
