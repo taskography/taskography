@@ -31,7 +31,7 @@ An in-house repository that contains the [official benchmark results](https://gi
 
 ---
 ## Citation
-If you find Taskography useful, please consider citing our work:
+All Taskography repositories are offered under the MIT License agreement. If you find Taskography useful, please consider citing our work:
 
 ```
 @inproceedings{agia2022taskography,
