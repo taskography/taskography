@@ -1,4 +1,4 @@
-# Taskography - Planning meets 3D Scene Graphs
+# Taskography - Evaluating robot task planning over large 3D scene graphs
 
 This is the landing page for *Taskography: Evaluating robot task planning over large 3D scene graphs*, presented at CoRL2021.
 For a brief overview of the work, please refer to our [project webpage](https://taskography.github.io/).
